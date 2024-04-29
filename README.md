@@ -1,4 +1,4 @@
-# Data_Analytics_Week1
+# Data_Analytics
 
 It’s important for businesses across industries to find insights to potentially improve operations, get a better understanding of customers or end users, increase profits, and much more.
 
